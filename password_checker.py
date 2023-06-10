@@ -1,9 +1,6 @@
 # password_checker.py
 # Yuma Takahashi
 
-# Check that the password you are using is secure. 
-# This check is performed by using an API from haveibeenpwned.com
-
 import requests
 import hashlib
 import sys
